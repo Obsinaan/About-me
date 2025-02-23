@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Dr. Obsa Gilo Wakuma!
 
-I am an Assistant Professor at Wollega University, Ethiopia, with research interests in:
-- 💻 Cyber Security (Goal: Wollega University as a center of excellence by 2042)
-- 📈 Transfer Learning and Domain Adaptation
-- 🌐 NLP (Afaan Oromoo)
+My research interests are in machine learning, deep learning, computer vision, natural language processing, and their applications. His doctoral work focused on developing deep learning techniques to improve domain adaptation. This research could have applications in areas like image classification, natural language processing, and medical diagnosis. Additionally, he has published several journal articles and conference papers on topics related to his research interests, particularly in the area of domain adaptation. Domain adaptation is a type of machine learning that allows models trained on one dataset to be effectively applied to another dataset, even if the two datasets are different. This is a challenging problem, but it has the potential to improve the performance of machine learning models in a variety of applications. 
 
 ---
 
